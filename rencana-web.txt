@@ -8,4 +8,6 @@ Rencana Web:
     ^ React
   * Framework PHP
     ^ Laravel
+- Jago Java
+- Jago Python
 - AMIIIIINNNNN
