@@ -2,4 +2,9 @@ Rencana Web:
 - Jago HTML, CSS, JAVASCRIPT
 - JAGO PHP
 - JAGO BANYAK FRAMEWORK
+  * Framework Javascript
+    ^ Vue
+    ^ React
+  * Framework PHP
+    ^ Laravel
 - AMIIIIINNNNN
