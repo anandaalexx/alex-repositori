@@ -4,6 +4,7 @@ Rencana Web:
 - JAGO BANYAK FRAMEWORK
   * Framework Javascript
     ^ Angular
+    ^ Vue
     ^ React
   * Framework PHP
     ^ Laravel
